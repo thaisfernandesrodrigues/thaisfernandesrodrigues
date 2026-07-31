@@ -17,4 +17,6 @@ Software Engineering student focused on web development and meaningful digital e
 
 [Email](mailto:thaisfernandesro@gmail.com)
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/thaisfernandesrodrigues/thaisfernandesrodrigues/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thaisfernandesrodrigues/thaisfernandesrodrigues/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
